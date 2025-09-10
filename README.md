@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm PriyankaThakur👋
 
 With 8+ years of experience in **AI, automation, and analytics**, I design and deliver solutions that bring together engineering precision and business impact. My expertise spans **machine learning pipelines, NLP systems, enterprise automation, and data storytelling**, always with a focus on clarity and purpose.
